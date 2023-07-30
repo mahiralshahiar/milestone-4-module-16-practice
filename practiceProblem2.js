@@ -11,7 +11,7 @@ console.log(totalNumber)
 
 var averageNumber = totalNumber / totalSubjects;
 
-// 2 decimal porjono dekhanur jonnoo ei part 
+// 2 decimal porjono dekhanur jonnoo ei part.
 
 var averageNumber2Decimal = averageNumber.toFixed(2);
 console.log(averageNumber2Decimal)
